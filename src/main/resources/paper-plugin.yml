@@ -1,0 +1,5 @@
+name: EconomyAPI
+version: '${project.version}'
+main: org.harryiz205.economyapi.EconomyAPI
+api-version: '1.20'
+authors: [ Harryz205 ]
